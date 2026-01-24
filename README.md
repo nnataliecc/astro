@@ -22,3 +22,11 @@ Small sample sizes and reliance on proxy.
 
 ## Relevance
 Importance of mental health support systems for missions with limited access to real-time care.
+
+## Required programs/libraries to run
+import import pandas as pd
+import numpy as np
+import plotly.graph_objects as go
+import plotly.express as px
+from plotly.subplots import make_subplots
+import os
